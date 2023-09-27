@@ -1,0 +1,8 @@
+threads_count: 1
+time: 230.322
+threads_count: 2
+time: 231.884
+threads_count: 4
+time: 166.689
+threads_count: 10
+time: 107.645
