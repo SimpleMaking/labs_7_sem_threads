@@ -23,7 +23,7 @@ def show_graphs():
         plt.title("Зависимость времени выполнения от числа потоков")
         plt.xlabel("Число потоков")
         plt.ylabel("Время выполнения")
-        plt.plot(threads_count, time, '-')
+        plt.plot(threads_count, time, '-*')
         plt.legend()
         plt.show()    
         
